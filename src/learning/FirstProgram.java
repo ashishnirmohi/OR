@@ -19,9 +19,12 @@
 			
 			driver.get(config.getApplicationURL()); Thread.sleep(4000);
 			driver.manage().window().maximize(); Thread.sleep(2000);
+			System.out.println("browser is about to close");
 			driver.quit();
-				
+			
+			// browser closed
 		}
 		
+			
 		
 	}
