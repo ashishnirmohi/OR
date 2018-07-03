@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="OR_example_testing">
+	    <classes>
+	    <class name="learning.ORExample"/>
+	    </classes>
+  </test> 
+ 
+</suite> <!-- Suite -->

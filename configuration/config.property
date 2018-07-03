@@ -1,0 +1,3 @@
+ChromeDriver=C:\\Users\\user\\eclipse-workspace\\OR\\browser\\chromedriver.exe
+URL=http://brewbroker-react.herokuapp.com
+join=//div[@id='app']/div/div/div[2]/div/div[2]/div[2]/div/div/button

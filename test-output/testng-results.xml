@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27765" started-at="2018-07-02T13:04:40Z" finished-at="2018-07-02T13:05:07Z">
+    <groups>
+    </groups>
+    <test name="OR_example_testing" duration-ms="27765" started-at="2018-07-02T13:04:40Z" finished-at="2018-07-02T13:05:07Z">
+      <class name="learning.ORExample">
+        <test-method status="PASS" signature="TestOR()[pri:0, instance:learning.ORExample@475530b9]" name="TestOR" duration-ms="27736" started-at="2018-07-02T13:04:40Z" finished-at="2018-07-02T13:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOR -->
+      </class> <!-- learning.ORExample -->
+    </test> <!-- OR_example_testing -->
+  </suite> <!-- Suite -->
+</testng-results>
